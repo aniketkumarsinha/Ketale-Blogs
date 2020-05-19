@@ -1,0 +1,15 @@
+#mainNav {
+}
+
+@media (min-width: 576px) {
+  img, svg {
+    img: src("Copy of Linked.png") no-repeat;
+  }
+}
+
+@media (min-width: 576px) {
+  #linkedimg {
+    /*img: src("Copy of Linked.png") no-repeat;*/
+  }
+}
+
